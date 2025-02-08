@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "publisher": "oss mazi",
     "icon": "mz-python-pak2.svg",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.80.0"
     },
