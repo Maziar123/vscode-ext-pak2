@@ -1,8 +1,8 @@
 # MZ Python Pack 2
 
-![MZ Python Pack 2 Icon](mz-python-pak2.svg)
+![MZ Python Pack 2 Icon](mz-python-pak2.png)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.png)](LICENSE)
 [![VS Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/oss-mazi.mz-python-pak2)](https://marketplace.visualstudio.com/items?itemName=oss-mazi.mz-python-pak2)
 [![VS Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/oss-mazi.mz-python-pak2)](https://marketplace.visualstudio.com/items?itemName=oss-mazi.mz-python-pak2)
 

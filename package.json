@@ -4,7 +4,7 @@
     "description": "Essential Python development extensions pack",
     "version": "1.0.0",
     "publisher": "Maziar123",
-    "icon": "mz-python-pak2.svg",
+    "icon": " mz-python-pak2.png",
     "license": "MIT",
     "engines": {
         "vscode": "^1.80.0"
