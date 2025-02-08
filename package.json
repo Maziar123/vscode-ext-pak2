@@ -11,9 +11,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/username/mz-python-pak2"
+        "url": "https://github.com/Maziar123/vscode-ext-pak2"
     },
-    "homepage": "https://github.com/username/mz-python-pak2#readme",
+    "homepage": "https://github.com/Maziar123/vscode-ext-pak2#readme",
     "categories": [
         "Extension Packs",
         "Programming Languages",
