@@ -1,0 +1,48 @@
+{
+    "name": "mz-python-pak2",
+    "displayName": "MZ Python Pack 2",
+    "description": "Essential Python development extensions pack",
+    "version": "1.0.0",
+    "publisher": "oss mazi",
+    "icon": "mz-python-pak2.svg",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/mz-python-pak2"
+    },
+    "homepage": "https://github.com/username/mz-python-pak2#readme",
+    "categories": [
+        "Extension Packs",
+        "Programming Languages",
+        "Education"
+    ],
+    "keywords": [
+        "python",
+        "jupyter",
+        "development",
+        "productivity",
+        "extension pack",
+        "oss mz"
+    ],
+    "extensionPack": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "ms-python.debugpy",
+        "ms-python.isort",
+        "ms-python.black-formatter",
+        "ms-python.autopep8",
+        "KevinRose.vsc-python-indent",
+        "magicstack.MagicPython",
+        "mgesbert.python-path",
+        "njqdev.vscode-python-typehint",
+        "ms-python.flake8",
+        "ms-python.vscode-python-envs",
+        "christian-kohler.path-intellisense",
+        "dakara.dakara-foldplus",
+        "sleistner.vscode-fileutils",
+        "doublebot.doublebot"
+    ]
+}
